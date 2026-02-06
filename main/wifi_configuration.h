@@ -32,8 +32,8 @@ static struct {
 
 #define USE_STATIC_IP 0
 // If you don't want to specify the ip configuration, then ignore the following items.
-#define DAP_IP_ADDRESS 192, 168, 137, 123
-#define DAP_IP_GATEWAY 192, 168, 137, 1
+#define DAP_IP_ADDRESS 192, 168, 50, 27
+#define DAP_IP_GATEWAY 192, 168, 50, 1
 #define DAP_IP_NETMASK 255, 255, 255, 0
 //
 
